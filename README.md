@@ -27,3 +27,5 @@ I also used feature importance analysis to identify which features most influenc
 Throughout the project, I used Python libraries such as Scikit-learn, Pandas, Matplotlib, and Seaborn. I documented my workflow clearly to ensure reproducibility.
 
 In conclusion, this project allowed me to apply machine learning concepts in a real-world healthcare scenario, reinforcing my skills in data preprocessing, model selection, evaluation, and interpretation. It highlighted the potential of machine learning to aid early detection of breast cancer, which can ultimately improve patient outcomes.
+
+# OUTPUT : ![Image](https://github.com/user-attachments/assets/5b921ddb-21fd-43c3-80ff-e4701b865df1)
